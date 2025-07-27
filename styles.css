@@ -7,10 +7,10 @@
 
 /* Variáveis CSS - Fácil customização */
 :root {
-    --primary-color: #e91e63;
-    --secondary-color: #f8bbd0;
+    --primary-color: #640D5F;
+    --secondary-color: #640d608b;
     --text-dark: #333;
-    --text-light: #666; 
+    --text-light: #565252; 
     --white: #ffffff;
     --bg-light: #fce4ec;
 }
@@ -109,12 +109,12 @@ nav {
     transition: all 0.3s;
     animation: fadeInUp 1s ease 0.4s;
     animation-fill-mode: both;
-    box-shadow: 0 4px 15px rgba(233, 30, 99, 0.3);
+    box-shadow: 0 4px 15px rgba(233, 30, 189, 0.3);
 }
 
 .cta-button:hover {
     transform: translateY(-3px);
-    box-shadow: 0 6px 20px rgba(233, 30, 99, 0.4);
+    box-shadow: 0 6px 20px rgba(233, 30, 196, 0.4);
 }
 
 /* ===== ANIMAÇÕES ===== */
