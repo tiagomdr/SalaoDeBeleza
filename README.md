@@ -1,4 +1,4 @@
-# 💇‍♀️ Projeto Salão de Beleza Responsivo
+# 💇‍♀️ Salão de Beleza 
 
 Este projeto é um site responsivo para um salão de beleza, desenvolvido com foco em design moderno, usabilidade e adaptação para dispositivos móveis. Ideal para apresentar serviços, equipe e facilitar o contato com clientes.
 
